@@ -20,3 +20,7 @@
         name: unclutter
     - apt:
         name: fonts-noto-color-emoji
+    - apt:
+        name: lightdm
+    - apt:
+        name: lshw
